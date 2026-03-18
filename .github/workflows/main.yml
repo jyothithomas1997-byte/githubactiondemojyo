@@ -1,0 +1,8 @@
+name: jyo new
+on: workflow_dispatch
+jobs:
+ hello:
+  runs-on: ubuntu-latest
+  steps:
+  -name: print hello
+   run:echo hello word
