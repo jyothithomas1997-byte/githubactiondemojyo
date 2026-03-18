@@ -1,5 +1,5 @@
 name: santhosh
-on: workflow_call
+on: workflow_dispatch
 jobs:
   san:
    runs-on: ubuntu-latest
