@@ -1,0 +1,9 @@
+name: santhosh
+on: workflow_call
+jobs:
+  san:
+   runs-on: ubuntu-latest
+   steps:
+     - name: santhosh
+     run: echo "san"
+  
