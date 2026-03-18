@@ -1,0 +1,8 @@
+name: santhosh
+on: workflow_dispatch
+jobs:
+  san:
+   runs-on: ubuntu-latest
+   steps:
+     - name: santhosh
+       run: echo "san"
